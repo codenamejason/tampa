@@ -1,4 +1,4 @@
-tampa
+Jacksonville
 =====
 
-Tampa NodeJS meetup repo
+Jacksonville NodeJS meetup repo
